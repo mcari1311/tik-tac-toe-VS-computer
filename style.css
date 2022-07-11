@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* font */
+}
+
+.background {
+    background-color: rgb(251, 241, 212);
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.display {
+    color: rgb(116, 82, 44);
+    font-size: 24px;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.hide {
+    display: none
+}
+
+.container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 33% 33% 33%;
+    max-width: 300px;
+}
+
+.tile {
+    border: 1px solid black;
+    min-width: 100px;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.playerX {
+    color: ;
+}
+
+.playerO {
+    color: ;
+}
