@@ -37,7 +37,7 @@
 }
 
 .tile {
-    border: 1px solid black;
+    border: 2px solid black;
     min-width: 100px;
     min-height: 100px;
     display: flex;
