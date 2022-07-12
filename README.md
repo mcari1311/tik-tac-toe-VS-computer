@@ -26,7 +26,16 @@ let moves = []
 
 This is a snipit of code from the "unbeatable level", specifically the algorithm whih makes it unbeatable. 
 
-List of Features / User Stories 
+How To Play
+
+Click within a box, right after the computer will make its move. Continue until game is over. 
+
+Press the 'Restart' button to play again 
+
+Press the other button to alternate between levels.
 
 List of Technologies Used 
 
+JavaScript
+HTML
+CSS
