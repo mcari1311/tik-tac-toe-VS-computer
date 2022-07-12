@@ -1,15 +1,3 @@
-body {
-    background-color: rgb(249, 223, 188);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-h1 {
-    font: 50px;
-    text-align: center;
-    padding: 20px;
-}
-
 .button {
     background-color: black;
     border-radius: 8px;
